@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTradePoint", "ValueTradePoint\ValueTradePoint.csproj", "{4B6BD990-F18C-44C5-8017-311383085474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B6BD990-F18C-44C5-8017-311383085474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6BD990-F18C-44C5-8017-311383085474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6BD990-F18C-44C5-8017-311383085474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6BD990-F18C-44C5-8017-311383085474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9F83619-E285-44F2-B28D-388219E56740}
+	EndGlobalSection
+EndGlobal
